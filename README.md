@@ -1,2 +1,2 @@
-# 1.github.io
+# NovigatorDima.github.io
 Первый опубликованый сайт

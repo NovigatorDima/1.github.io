@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+
+
+.lobster {
+	font-family: 'Lobster', cursive;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: local('Bebas Neue Thin'), local('BebasNeue-Thin'), url('bebasneuethin.woff2') format('woff2'), url('bebasneuethin.woff') format('woff'), url('bebasneuethin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+.bebas {
+	font-family: 'Bebas Neue', cursive;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Hairline'), local('Lato-Hairline'), url('latohairline.woff2') format('woff2'), url('latohairline.woff') format('woff'), url('latohairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+.lato {
+	font-family: 'Lato', cursive;
+}
